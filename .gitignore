@@ -1,3 +1,4 @@
 /.idea
 /java-examples/target
 *.iml
+/venv
